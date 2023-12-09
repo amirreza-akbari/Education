@@ -15,5 +15,5 @@ main()
 	cout << log2(32) << endl;
 
 	cout << fmod(17,3) << endl;
-
+	
 }
