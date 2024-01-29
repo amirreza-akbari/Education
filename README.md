@@ -1,2 +1,2 @@
 # Education
-Training according to the algorithm:)
+Training according to the algorithm.
