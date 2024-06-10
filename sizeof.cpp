@@ -6,7 +6,7 @@ main()
 	float b = 10.5;
 	char  c = 'h';
 	bool  d = true;
-	 
+	  
 	cout << sizeof(a) << endl;
 	cout << sizeof(b) << endl;
 	cout << sizeof(c) << endl;
