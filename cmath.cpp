@@ -2,7 +2,7 @@
 #include <cmath>
 using namespace std;
 main()
-{
+{ 
 	cout << sqrt(64) << endl;
 	cout << abs(-64) << endl;
 	cout << pow(2,10) << endl;
