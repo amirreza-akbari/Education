@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cmath> 
-using namespace std;
+using namespace std; 
 main()
 { 
 	cout << sqrt(64) << endl;
